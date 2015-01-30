@@ -6,3 +6,7 @@ The `tabs` object is a simple abstraction for force a series of elements
 Install using Bower:
 
     $ bower install --save inuit-tabs
+
+Install using npm:
+
+    $ npm install --save inuit-tabs
